@@ -1,0 +1,26 @@
+.row{
+    position: relative;
+        color:white; 
+        /* background-color: rgb(218, 203, 183); */
+        width: 200px;
+        top: 10px;
+        
+        /* border: 5px solid rgb(78, 44, 16); */
+        /* position: relative; */
+        
+        display: flex; 
+        justify-content: space-around;
+        text-align: center;
+        left: 276px;
+}
+        h1{
+            color: white;
+        }
+        
+        
+
+
+
+    
+   
+
